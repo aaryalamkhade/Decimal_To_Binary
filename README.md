@@ -1,2 +1,2 @@
 # Decimal_To_Binary
-Cpp code to convert decimal to binary
+Cpp code to convert decimal to binary.
